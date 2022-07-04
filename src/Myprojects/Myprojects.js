@@ -93,7 +93,7 @@ const Myprojects = () => (
               <div class="col-lg-3 ol-sm-6 d-flex">
                   <i class="fa-brands fa-linkedin mx-2 icn_cntct"></i
                   ><p class="fs-5"><a
-                    href=#"
+                    href="#"
                     ><span
                       >Romar George Doinog</span
                     ></a>
