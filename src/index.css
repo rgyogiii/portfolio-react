@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Poppins', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #000000;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+/* homepage background */
+.bg-header {
+  background-image: url("./Myhomepage/bg-01.png");
+  background-size: cover;
+  height: 60em !important;
+}
+
+.titleheader{
+  padding-top: 25em !important;
+}
+
+
+/* font changes color to limegren */
+.font_clr,
+.nvbar_fnt {
+  color: #3cb389;
+}
+
+/* increases the size of the icon under the services page*/
+.icn_size {
+  font-size: 50px;
+}
+
+/* hover effect of the navbar */
+.nvbar_fnt:hover {
+  color: #ffffff;
+}
+
+/* Project Image set size */
+.img_size {
+  width: 20rem;
+  border-radius: 5px;
+  border: 1px solid #ffffff;
+}
+
+/* icon size for the programming language logos */
+.prgm_lang {
+  width: 1.3rem;
+}
+
+/* icon size for the bootstrap logos */
+.prgm_langbt {
+  width: 1.6rem;
+}
+
+/* container for the project showcase */
+.crd_cntainer {
+  width: 20rem;
+}
+
+/* removes underline of the a tag */
+a:link {
+  text-decoration: none;
+}
+
+/* a tag color changed to white */
+a {
+  color: #ffffff;
+}
+
+/* changes color when mouse hove on a tag */
+a:hover {
+  color: #3cb389;
+}
+
+/* increase the size of the icon under the contact page */
+.icn_cntct{
+  font-size: 30px;
+  color: #3cb389;
+}
+
+/* increase the size of the email icon under the contact page */
+.icn_cntct-email{
+  font-size: 28px;
+  color: #3cb389;
+  padding-top: 2px;
+}
