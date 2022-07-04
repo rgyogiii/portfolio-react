@@ -4,8 +4,7 @@ import styles from './Myhomepage.module.css';
 
 const Myhomepage = () => (
   <div class="container-fluid text-white bg-header"  id='home'>
-      <div class="d-flex justify-content-start titleheader" className={styles.headertitle}>
-
+      <div class="d-flex justify-content-start titleheader">
           <div class="container py-5 px-5">
             <span class="fs-4 fw-bold">Hi there,</span>
             <h1 class="display-4 fw-bold pe-2">
