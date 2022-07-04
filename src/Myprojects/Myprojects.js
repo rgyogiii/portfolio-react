@@ -86,14 +86,14 @@ const Myprojects = () => (
 
               <div class="col-lg-3 col-sm-6 d-flex">
                   <i class="fa-brands fa-github-square mx-2 icn_cntct"></i
-                  ><p class="fs-5"><a href="https://github.com/georgeromarrr"><span>georgeromarrr</span></a>
+                  ><p class="fs-5"><a href="#"><span>georgeromarrr</span></a>
                   </p>
               </div>
               
               <div class="col-lg-3 ol-sm-6 d-flex">
                   <i class="fa-brands fa-linkedin mx-2 icn_cntct"></i
                   ><p class="fs-5"><a
-                    href="https://ph.linkedin.com/in/romar-george-doinog-a027901a9"
+                    href=#"
                     ><span
                       >Romar George Doinog</span
                     ></a>
